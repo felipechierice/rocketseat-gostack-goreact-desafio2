@@ -19,6 +19,7 @@ export const Repository = styled.div`
 
   header {
     padding: 30px;
+    padding-top: 0;
     display: flex;
     justify-content: center;
     flex-direction: column;
@@ -56,6 +57,24 @@ export const Repository = styled.div`
       &:nth-child(2n -1) {
         background: #f5f5f5;
       }
+    }
+  }
+`;
+
+export const RepositoryActions = styled.div`
+  margin: 20px;
+  display: flex;
+  justify-content: space-between;
+
+  button {
+    background: transparent;
+    border: 0;
+    padding: 5px;
+    cursor: pointer;
+
+    i {
+      color: #ccc;
+      font-size: 24px;
     }
   }
 `;
