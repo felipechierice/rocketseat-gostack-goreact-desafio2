@@ -1,4 +1,4 @@
-# rocketseat-gostack-goreact-desafio2
+# rocketseat-gostack5-goreact-desafio2
 Front-end desenvolvido utilizando ReactJS, Styled Components e Axios. Trata-se de um comparador de propriedades de repositórios do Github. Projeto do Bootcamp da Rocketseat, GoStack 5. Já com as modificações do desafio 2 do GoReact, que segue com especificações abaixo.
 
 # Desafio 2
